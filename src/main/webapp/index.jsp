@@ -4,6 +4,6 @@
 <html>
 <body>
 <h2>Index Page</h2>
-<a href="./ScrapingCommon">スクレイピングサーブレット.</a>
+<a href="./ScrapingCommon">スクレイピングサーブレット.aaaaaaa</a>
 </body>
 </html>
