@@ -4,6 +4,6 @@
 <html>
 <body>
 <h2>Index Page</h2>
-<a href="./ScrapingCommon">NLB TEST SUCCESSFULLUUUUUUUUUUUU</a>
+<a href="./ScrapingCommon">SUCCESS YEAHAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!</a>
 </body>
 </html>
