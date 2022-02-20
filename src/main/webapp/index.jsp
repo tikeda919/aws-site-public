@@ -4,6 +4,6 @@
 <html>
 <body>
 <h2>Index Page</h2>
-<a href="./ScrapingCommon">SUCCESS YEAHAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!</a>
+<a href="./ScrapingCommon">FROM GITHUB EDIT</a>
 </body>
 </html>
