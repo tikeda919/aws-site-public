@@ -4,6 +4,6 @@
 <html>
 <body>
 <h2>Index Page</h2>
-<a href="./ScrapingCommon">FROM ECLIPSE</a>
+<a href="./ScrapingCommon">success!!</a>
 </body>
 </html>
